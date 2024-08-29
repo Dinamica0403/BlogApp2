@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding: 15px;
+
+}
+body{
+    background-color: #078178;
+    color: #000;
+}
+.title{
+    color: #000;
+    font-size:larger ;
+}
+.user-area{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
